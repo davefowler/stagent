@@ -5,3 +5,5 @@ site/
 *.swp
 *~
 .DS_Store
+/fraude
+/stagent
